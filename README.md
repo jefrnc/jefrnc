@@ -16,17 +16,38 @@
 
 - 📄 Know about my experiences on [Linkedin](https://www.linkedin.com/in/joffranco/)
 
-<!--
-**jefrnc/jefrnc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<h2 align="left"><b>Connect with me:</b></h2>
+<p align="left">
+    <a href="https://twitter.com/jefrnc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jefrnc" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/joffranco/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vumdao" height="30" width="40" /></a>
+    <a href="https://github.com/jefrnc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="vumdao" height="30" width="40" /></a> <a href="https://stackoverflow.com/users/12156884/jos%c3%a9-franco" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.13.0/icons/stackoverflow.svg" alt="joffranco" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<h2>🚀 Tools/ Technologies/ What I use/used</h2>
+
+<p align="left">
+    <a href="https://aws.amazon.com" target="_blank"> <img src="images/aws.png" alt="aws" width="40" height="40"/> </a> 
+</p>
+<br>
+
+---
+
+## 📈 GitHub Stats  ![Profile views](https://komarev.com/ghpvc/?username=jefrnc&color=blueviolet)
+![jefrnc's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefrnc&theme=blue-green&show_icons=true&line_height=27&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jefrnc&theme=blue-green&langs_count=3)
+![jefrnc's github streak](https://github-readme-streak-stats.herokuapp.com/?user=jefrnc&theme=blue-green)
+
+---
+
+<div align="center">
+    <a href="https://www.buymeacoffee.com/" target="_blank" style="display: inline-block;">
+        <img
+            src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square"
+            align="center"
+        />
+    </a></div>
+<br />

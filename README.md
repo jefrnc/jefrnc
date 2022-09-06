@@ -3,7 +3,7 @@
 
 ---
 
-![](https://visitor-badge.glitch.me/badge?page_id=github.com/jefrnc) [![GitHub followers](https://img.shields.io/github/followers/jefrnc?label=Followers&style=social)](https://github.com/jefrnc/?tab=follow) ![Profile views](https://komarev.com/ghpvc/?username=jefrnc&color=blueviolet) ![licence:free to use](https://img.shields.io/badge/licence-free--to--use-blue) [![Linkedin Badge](https://img.shields.io/badge/-vumdao-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joffranco/)](https://www.linkedin.com/in/joffranco/)  
+![](https://visitor-badge.glitch.me/badge?page_id=github.com/jefrnc) [![GitHub followers](https://img.shields.io/github/followers/jefrnc?label=Followers&style=social)](https://github.com/jefrnc/?tab=follow) ![Profile views](https://komarev.com/ghpvc/?username=jefrnc&color=blueviolet) ![licence:free to use](https://img.shields.io/badge/licence-free--to--use-blue) [![Linkedin Badge](https://img.shields.io/badge/-joffranco-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joffranco/)](https://www.linkedin.com/in/joffranco/)  
 
 
 <img align="right" src="https://github.com/mikonoid/mikonoid/blob/main/images/gifs/coder3.gif?raw=true" width="500" height="320" />

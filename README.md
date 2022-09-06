@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jose Francoo <img src="https://github.com/jefrnc/jefrnc/blob/master/logo.png?raw=true" width="50px"></h1>
+<h1 align="center">Hi 👋, I'm Jose Franco</h1>
 <h2 align="center"><b>🚀 Awesome Devops | ☁️ CloudOps ☁️</b></h2>
 
 ---

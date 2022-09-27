@@ -30,7 +30,10 @@
 <h2>🚀 Tools/ Technologies/ What I use/used</h2>
 
 <p align="left">
-    <a href="https://aws.amazon.com" target="_blank"> <img src="images/aws.png" alt="aws" width="40" height="40"/> </a> 
+    <a href="https://aws.amazon.com" target="_blank"> <img src="images/aws.png" alt="aws" width="40" height="40"/> </a>
+    <a href="#" target="_blank"> <img src="images/azure.png" alt="aws" width="40" height="40"/> </a>
+    <a href="#" target="_blank"> <img src="images/gcp.png" alt="aws" width="40" height="40"/> </a>
+    <a href="#" target="_blank"> <img src="https://www.pulumi.com/logos/brand/logo-on-black.svg" alt="pulumi" width="40" height="40"/> </a>
 </p>
 <br>
 

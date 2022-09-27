@@ -6,8 +6,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=github.com/jefrnc) [![GitHub followers](https://img.shields.io/github/followers/jefrnc?label=Followers&style=social)](https://github.com/jefrnc/?tab=follow) ![Profile views](https://komarev.com/ghpvc/?username=jefrnc&color=blueviolet) ![licence:free to use](https://img.shields.io/badge/licence-free--to--use-blue) [![Linkedin Badge](https://img.shields.io/badge/-joffranco-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joffranco/)](https://www.linkedin.com/in/joffranco/)  
 
 
-<img align="right" src="https://github.com/mikonoid/mikonoid/blob/main/images/gifs/coder3.gif?raw=true" width="500" height="320" />
-
 
 - 🔭 **Senior Devops Engineer**
 
@@ -30,10 +28,13 @@
 <h2>🚀 Tools/ Technologies/ What I use/used</h2>
 
 <p align="left">
-    <a href="https://aws.amazon.com" target="_blank"> <img src="images/aws.png" alt="aws" width="40" height="40"/> </a>
-    <a href="#" target="_blank"> <img src="images/azure.png" alt="aws" width="40" height="40"/> </a>
-    <a href="#" target="_blank"> <img src="images/gcp.png" alt="aws" width="40" height="40"/> </a>
-    <a href="#" target="_blank"> <img src="https://www.pulumi.com/logos/brand/logo-on-black.svg" alt="pulumi" width="40" height="40"/> </a>
+    <a href="https://aws.amazon.com" target="_blank"> <img src="images/aws.png" alt="aws"  height="40"/> </a>
+    <a href="#" target="_blank"> <img src="images/azure.png" alt="aws" height="40"/> </a>
+    <a href="#" target="_blank"> <img src="images/gcloud.webp" alt="aws" height="40"/> </a>
+    <a href="#" target="_blank"> <img src="https://www.pulumi.com/logos/brand/logo-on-black.svg" alt="pulumi" height="40"/> </a>
+    <a href="#" target="_blank"> <img src="images/tekton.png" alt="tekton" height="40"/> </a>
+    <a href="#" target="_blank"> <img src="images/jenkins.png" alt="jenkins" height="40"/> </a>
+    <a href="#" target="_blank"> <img src="images/github.png" alt="jenkins" height="40"/> </a>
 </p>
 <br>
 

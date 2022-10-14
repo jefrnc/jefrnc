@@ -16,12 +16,22 @@
 
 ---
 
-![](https://visitor-badge.glitch.me/badge?page_id=github.com/jefrnc) [![GitHub followers](https://img.shields.io/github/followers/jefrnc?label=Followers&style=social)](https://github.com/jefrnc/?tab=follow) ![Profile views](https://komarev.com/ghpvc/?username=jefrnc&color=blueviolet) ![licence:free to use](https://img.shields.io/badge/licence-free--to--use-blue) [![Linkedin Badge](https://img.shields.io/badge/-joffranco-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joffranco/)](https://www.linkedin.com/in/joffranco/)  
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
 
+```text
+TypeScript   22 hrs 49 mins  ██████████████████████▓░░   90.99 %
+JavaScript   2 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
+Bash         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+```
 
+<!--END_SECTION:waka-->
+
+---
 
 - 🔭 **Senior Devops Engineer**
-
 
 - 💬 Ask me about **AWS, Serverless, Pulumi**
 
@@ -29,13 +39,18 @@
 
 ---
 
-<h2 align="left"><b>Connect with me:</b></h2>
-<p align="left">
-    <a href="https://twitter.com/jefrnc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jefrnc" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/joffranco/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vumdao" height="30" width="40" /></a>
-    <a href="https://github.com/jefrnc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="vumdao" height="30" width="40" /></a> <a href="https://stackoverflow.com/users/12156884/jos%c3%a9-franco" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.13.0/icons/stackoverflow.svg" alt="joffranco" height="30" width="40" /></a>
-</p>
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
 
+```text
+TypeScript   22 hrs 49 mins  ██████████████████████▓░░   90.99 %
+JavaScript   2 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
+Bash         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+```
+
+<!--END_SECTION:waka-->
 ---
 
 <h2>🚀 Tools/ Technologies/ What I use/used</h2>

@@ -1,3 +1,16 @@
+### hey there 
+<a href="https://www.instagram.com/jefrnc/">
+  <img align="left" alt="Joseph's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://twitter.com/jefrnc">
+  <img align="left" alt="Joseph | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/joffranco/">
+  <img align="left" alt="Joseph's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+<br />
+
 <h1 align="center">Hi 👋, I'm Jose Franco</h1>
 <h2 align="center"><b>🚀 Awesome Devops | ☁️ CloudOps ☁️</b></h2>
 

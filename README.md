@@ -28,12 +28,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python       3 hrs 18 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.99 %
-YAML         2 hrs 44 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.09 %
-Docker       2 hrs 14 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.55 %
-Terraform    1 hr 36 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
-Markdown     1 hr 19 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
-Groovy       1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
+Other        4 hrs 23 mins   ███████▒░░░░░░░░░░░░░░░░░   29.22 %
 ```
 
 <!--END_SECTION:waka-->

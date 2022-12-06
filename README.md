@@ -28,9 +28,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Terraform    1 hr            ██████████░░░░░░░░░░░░░░░   39.83 %
-TypeScript   43 mins         ███████░░░░░░░░░░░░░░░░░░   28.52 %
-Other        14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

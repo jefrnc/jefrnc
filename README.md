@@ -28,10 +28,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   4 hrs 12 mins   ███████▓░░░░░░░░░░░░░░░░░   31.03 %
-YAML         3 hrs 21 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.78 %
-Python       2 hrs 36 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.20 %
-Other        1 hr 53 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.92 %
+TypeScript   4 hrs 15 mins   ███████░░░░░░░░░░░░░░░░░░   28.43 %
+YAML         3 hrs 24 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.75 %
+Python       2 hrs 36 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.39 %
+Other        1 hr 53 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.69 %
 ```
 
 <!--END_SECTION:waka-->

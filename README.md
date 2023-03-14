@@ -28,9 +28,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Nginx configuration file   1 hr 31 mins    ████████░░░░░░░░░░░░░░░░░   31.72 %
-YAML                       1 hr            █████▒░░░░░░░░░░░░░░░░░░░   21.10 %
-Other                      46 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.20 %
+Nginx configuration file   1 hr 31 mins    ██████░░░░░░░░░░░░░░░░░░░   23.91 %
+YAML                       1 hr 26 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.69 %
+Bash                       1 hr 11 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.64 %
+Other                      46 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 %
 ```
 
 <!--END_SECTION:waka-->

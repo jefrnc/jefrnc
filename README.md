@@ -44,13 +44,23 @@ JSON         11 mins         ▓░░░░░░░░░░░░░░░░
 <h2>🚀 Tools / Technologies / What I use / What I've used</h2>
 
 <p align="left">
-    <a href="https://aws.amazon.com" target="_blank"> <img src="images/aws.png" alt="aws"  height="40"/> </a>
-    <a href="#" target="_blank"> <img src="images/azure.png" alt="aws" height="40"/> </a>
-    <a href="#" target="_blank"> <img src="images/gcloud.webp" alt="aws" height="40"/> </a>
-    <a href="#" target="_blank"> <img src="https://www.pulumi.com/logos/brand/logo-on-black.svg" alt="pulumi" height="40"/> </a>
-    <a href="#" target="_blank"> <img src="images/tekton.png" alt="tekton" height="40"/> </a>
-    <a href="#" target="_blank"> <img src="images/jenkins.png" alt="jenkins" height="40"/> </a>
-    <a href="#" target="_blank"> <img src="images/github.png" alt="jenkins" height="40"/> </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" alt="gcp" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="golang" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pulumi/pulumi-original-wordmark.svg" alt="pulumi" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudformation/cloudformation-original-wordmark.svg" alt="cloudformation" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" alt="terraform" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" alt="ansible" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
 </p>
 <br>
 

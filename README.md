@@ -1,4 +1,4 @@
-### hey there 
+### Hey there! 👋
 <a href="https://www.instagram.com/jefrnc/">
   <img align="left" alt="Joseph's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -11,16 +11,18 @@
 
 <br />
 
-<h1 align="center">Hi 👋, I'm Jose Franco</h1>
-<h2 align="center"><b>🚀 Awesome Devops | ☁️ CloudOps ☁️</b></h2>
+<h1 align="center">Hi 👋, I'm José Franco</h1>
+<h2 align="center">🚀 Software Architect and Passionate Devops | ☁️ CloudOps Specialist ☁️</h2>
 
 ---
 
-- 🔭 **Senior Devops Engineer**
-
+- 🔭 **Senior Devops Engineer with over 18 years of experience**
+- 🎓 **Former Microsoft Instructor**
+- 🏢 **Worked with .NET Framework, Azure, AWS, and GCP**
+- 🌟 **Promoter of Pulumi as IaC**
+- 💻 **Skilled in AWS, Python, and Golang**
 - 💬 Ask me about **AWS, Serverless, Pulumi**
-
-- 📄 Know about my experiences on [Linkedin](https://www.linkedin.com/in/joffranco/)
+- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/joffranco/)
 
 ---
 
@@ -39,7 +41,7 @@ JSON         11 mins         ▓░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 ---
 
-<h2>🚀 Tools/ Technologies/ What I use/used</h2>
+<h2>🚀 Tools / Technologies / What I use / What I've used</h2>
 
 <p align="left">
     <a href="https://aws.amazon.com" target="_blank"> <img src="images/aws.png" alt="aws"  height="40"/> </a>

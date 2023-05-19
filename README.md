@@ -1,17 +1,14 @@
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/jefrnc)
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-
+<h1 align="center">Hi 👋, I'm José Franco</h1>
+<h2 align="center">🚀 Software Architect and Passionate Devops | ☁️ CloudOps Specialist ☁️</h2>
 [![Linkedin Badge](https://img.shields.io/badge/-joffranco-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joffranco/)](https://www.linkedin.com/in/joffranco/)
 [![Medium Badge](https://img.shields.io/badge/-@jefrnc-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@jefrnc)](https://medium.com/@jefrnc)
 [![Website Badge](https://img.shields.io/badge/-vlipo.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://vlipo.io)](https://vlipo.io)
 [![Instagram Badge](https://img.shields.io/badge/-@__jefrnc-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jefrnc/)](https://instagram.com/jefrnc)
 [![Gmail Badge](https://img.shields.io/badge/-jsfrnc-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jsfrnc@gmail.com)](mailto:jsfrnc@gmail.com)
 <br />
-<h1 align="center">Hi 👋, I'm José Franco</h1>
-<h2 align="center">🚀 Software Architect and Passionate Devops | ☁️ CloudOps Specialist ☁️</h2>
-
 ---
-
 - 🔭 **Senior Devops Engineer with over 18 years of experience**
 - 🎓 **Former Microsoft Instructor**
 - 🏢 **Worked with .NET Framework, Azure, AWS, and GCP**
@@ -63,13 +60,6 @@ Text         57 mins         █▒░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
----
-
-## 📈 GitHub Stats  ![Profile views](https://komarev.com/ghpvc/?username=jefrnc&color=blueviolet)
-![jefrnc's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefrnc&theme=blue-green&show_icons=true&line_height=27&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jefrnc&theme=blue-green&langs_count=3)
-![jefrnc's github streak](https://github-readme-streak-stats.herokuapp.com/?user=jefrnc&theme=blue-green)
 
 ---
 

@@ -2,6 +2,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <h1 align="center">Hi 👋, I'm José Franco</h1>
 <h2 align="center">🚀 Software Architect and Passionate Devops | ☁️ CloudOps Specialist ☁️</h2>
+<br />
 [![Linkedin Badge](https://img.shields.io/badge/-joffranco-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joffranco/)](https://www.linkedin.com/in/joffranco/)
 [![Medium Badge](https://img.shields.io/badge/-@jefrnc-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@jefrnc)](https://medium.com/@jefrnc)
 [![Website Badge](https://img.shields.io/badge/-vlipo.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://vlipo.io)](https://vlipo.io)

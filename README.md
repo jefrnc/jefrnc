@@ -26,7 +26,7 @@
 
 ---
 
-📊 **this week i spent my time on:**
+📊 **What did I do in my last 48 hours?:**
 <!--START_SECTION:waka-->
 
 ```text

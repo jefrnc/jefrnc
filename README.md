@@ -1,10 +1,10 @@
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/jefrnc)
 ### Hey there! 👋
-[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joffranco/)](https://www.linkedin.com/in/joffranco/)
-[![Medium Badge](https://img.shields.io/badge/-@jessicalim-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@jefrnc)](https://medium.com/@jefrnc)
-[![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://vlipo.io)](https://vlipo.io)
-[![Instagram Badge](https://img.shields.io/badge/-@__jessicaalim-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/jefrnc)
-[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jsfrnc@gmail.com)](mailto:jsfrnc@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-joffranco-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joffranco/)](https://www.linkedin.com/in/joffranco/)
+[![Medium Badge](https://img.shields.io/badge/-@jefrnc-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@jefrnc)](https://medium.com/@jefrnc)
+[![Website Badge](https://img.shields.io/badge/-vlipo.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://vlipo.io)](https://vlipo.io)
+[![Instagram Badge](https://img.shields.io/badge/-@__jefrnc-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jefrnc/)](https://instagram.com/jefrnc)
+[![Gmail Badge](https://img.shields.io/badge/-jsfrnc-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jsfrnc@gmail.com)](mailto:jsfrnc@gmail.com)
 <br />
 <h1 align="center">Hi 👋, I'm José Franco</h1>
 <h2 align="center">🚀 Software Architect and Passionate Devops | ☁️ CloudOps Specialist ☁️</h2>

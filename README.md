@@ -54,11 +54,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML              5 hrs 23 mins   ████████░░░░░░░░░░░░░░░░░   31.39 %
-Python            4 hrs 34 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.66 %
-Markdown          2 hrs 39 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.45 %
-TypeScript        1 hr 58 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.48 %
-Terraform         51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
+Python            4 hrs 51 mins   ███████▓░░░░░░░░░░░░░░░░░   30.55 %
+YAML              4 hrs 17 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.01 %
+Markdown          2 hrs 26 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.39 %
+TypeScript        2 hrs 17 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.44 %
+Terraform         54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
 ```
 
 <!--END_SECTION:waka-->

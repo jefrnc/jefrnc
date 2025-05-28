@@ -1,6 +1,25 @@
 .terraform/
 *.swp
 
+# Claude
+.claude/
+CLAUDE.md
+.claudeignore
+claude.json
+.cline/
+.continue/
+.aider*
+.aide/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+*~
+.DS_Store
+Thumbs.db
+
 # PhpStorm
 .idea
 .idea/*

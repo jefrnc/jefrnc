@@ -16,6 +16,8 @@
 
 I'm a passionate technologist who bridges the gap between **enterprise cloud solutions**, **quantitative finance**, and the **startup ecosystem**. With nearly two decades in the tech industry, I've evolved from traditional software development to building scalable cloud infrastructures, developing algorithmic trading systems, and helping startups grow.
 
+📋 **[View my detailed professional profile](./PROFILE.md)** | 📄 **[Download CV (PDF)](./CV.pdf)**
+
 - 🔭 **Senior DevOps Engineer** crafting robust cloud architectures for enterprise scale
 - 🚀 **Startup Enthusiast** - The startup world is the best! Former engineer at **Frubana** 🥑
 - 📊 **Quantitative Trading Enthusiast** developing algorithmic strategies and backtesting frameworks
@@ -140,18 +142,6 @@ I'm a passionate technologist who bridges the gap between **enterprise cloud sol
     </td>
   </tr>
 </table>
-
----
-
-### 📊 Coding Activity
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 ---
 

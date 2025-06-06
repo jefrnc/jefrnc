@@ -22,17 +22,17 @@ I'm a passionate technologist who bridges the gap between **enterprise cloud sol
 - 🏢 **Cloud Polyglot** experienced with AWS, Azure, and GCP ecosystems
 - 🎓 **Former Microsoft Instructor** sharing knowledge and best practices
 - 🤖 **Automation Advocate** building tools that make developers' lives easier
-- 💹 **Market Microstructure** researcher exploring HFT, market making, and statistical arbitrage
+- 💹 **Market Microstructure** researcher exploring price action, market dynamics, and statistical patterns
 - 🌟 **Pulumi Champion** promoting Infrastructure as Code best practices
 - 💡 **Startup Advisor** helping early-stage companies with technical architecture and scaling
 
 ### 💡 What I'm Working On
 
-- 🔄 Building high-performance trading bots using Python and Go
-- 📈 Developing backtesting frameworks for quantitative strategies
+- 🔄 Building algorithmic trading systems while maintaining discretionary edge
+- 📈 Developing backtesting frameworks for both systematic and discretionary strategies
 - ☁️ Architecting real-time data pipelines for market analysis
 - 🚀 Creating DevOps tools that streamline cloud deployments
-- 📊 Exploring machine learning applications in financial markets
+- 🌟 Constantly exploring new intersections between finance, technology, and quantitative analysis
 
 ### 🛠️ Tech Stack & Tools
 
@@ -104,13 +104,13 @@ I'm a passionate technologist who bridges the gap between **enterprise cloud sol
   - Building engineering teams and culture
   - Cloud cost optimization strategies
 
-### 📈 Trading & Finance Projects
+### 📈 Trading & Finance
 
-- **🤖 Algorithmic Trading Bot**: High-frequency trading system built with Python and C++ for crypto markets
-- **📊 Market Analysis Dashboard**: Real-time visualization of market data using React, WebSockets, and D3.js
-- **🔮 ML Price Predictor**: LSTM-based price prediction model with 70%+ accuracy on backtests
-- **⚡ Order Execution Engine**: Low-latency order routing system with smart order routing capabilities
-- **📉 Risk Management Framework**: Portfolio risk assessment tool with VaR and stress testing
+- **📊 Futures Trading**: Operating futures markets using ICT (Inner Circle Trader) concepts, with a deep love for Fair Value Gaps (FVG)
+- **🎯 Market Profile**: Mastered Matvard's strategy combining TPO (Time Price Opportunity) with DVAs (Developing Value Areas) and LTVWAPs (Low Time Weighted Average Price)
+- **💎 Small Caps**: Discretionary trading in small cap stocks, analyzing market structure and momentum
+- **🤖 Algorithmic Development**: Always staying connected to the algorithmic world, continuously improving automated strategies
+- **📚 Continuous Learning**: Constantly seeking opportunities to deepen knowledge at the intersection of finance, technology, and quantitative analysis
 
 ### 🎯 Expertise Areas
 
@@ -128,48 +128,18 @@ I'm a passionate technologist who bridges the gap between **enterprise cloud sol
       </ul>
     </td>
     <td align="center" width="50%">
-      <h4>📊 Quantitative Finance</h4>
+      <h4>📊 Trading & Quantitative Finance</h4>
       <ul align="left">
-        <li>Algorithmic trading strategies</li>
-        <li>Market microstructure analysis</li>
-        <li>Statistical arbitrage</li>
+        <li>ICT concepts and Fair Value Gaps</li>
+        <li>Market Profile (TPO, DVAs, LTVWAPs)</li>
+        <li>Small caps discretionary trading</li>
+        <li>Algorithmic trading development</li>
         <li>Risk management systems</li>
-        <li>Backtesting frameworks</li>
-        <li>Real-time data processing</li>
+        <li>Real-time market data analysis</li>
       </ul>
     </td>
   </tr>
 </table>
-
-### 📚 Latest Blog Posts & Resources
-
-- 🚀 [Building Scalable Trading Infrastructure on AWS](https://link-to-blog)
-- 📈 [Introduction to Market Making Algorithms](https://link-to-blog)
-- ☁️ [Pulumi vs Terraform: A Deep Dive](https://link-to-blog)
-- 🤖 [Real-time Data Pipelines for Trading](https://link-to-blog)
-- 💡 [Optimizing Cloud Costs for Data-Intensive Applications](https://link-to-blog)
-
-### 🏆 Achievements & Certifications
-
-- 🎖️ **AWS Solutions Architect Professional**
-- 🎖️ **Google Cloud Professional Cloud Architect**
-- 🎖️ **Microsoft Certified Azure Solutions Architect**
-- 🏅 **CFA Level I Candidate**
-- 🌟 **Open Source Contributor** - Pulumi, Terraform providers
-- 📚 **Technical Speaker** - DevOps & Cloud conferences
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jefrnc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefrnc&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jefrnc&theme=tokyonight" alt="jefrnc" />
-</div>
 
 ---
 
@@ -210,9 +180,9 @@ No activity tracked
 - 🥑 **Startups**: Scaling from MVP to production, building engineering culture
 - 📊 **Quantitative Trading**: Strategy development, backtesting, execution
 - 🔧 **DevOps**: CI/CD, monitoring, automation
-- 💹 **Market Analysis**: Technical indicators, ML models, data pipelines
+- 💹 **Trading**: ICT, Market Profile, algorithmic strategies, market structure
 - 🌟 **Infrastructure as Code**: Pulumi, Terraform, CloudFormation
-- 🤖 **Trading Bots**: Design, implementation, risk management
+- 🤖 **Algorithmic Trading**: System design, backtesting, continuous improvement
 - 💚 **LATAM Tech Scene**: Opportunities, challenges, and growth
 
 ---
@@ -244,12 +214,12 @@ If you find my work valuable and would like to support my open-source contributi
 </div>
 
 <div align="center">
-  <h3>💭 "The market is a device for transferring money from the impatient to the patient." - Warren Buffett</h3>
+  <h3>💭 "In trading and technology, the learning never stops."</h3>
 </div>
 
 ---
 
 <div align="center">
   <p>⌨️ with ❤️ by <a href="https://github.com/jefrnc">José Franco</a> 😊</p>
-  <p>Building the future of cloud infrastructure and quantitative finance, one commit at a time 🚀</p>
+  <p>Bridging cloud infrastructure, trading, and quantitative analysis 🚀</p>
 </div>

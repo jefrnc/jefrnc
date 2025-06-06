@@ -132,7 +132,7 @@ Senior DevOps Engineer and Software Architect with 18+ years of experience in cl
 ## 🗣️ Languages
 
 - **Spanish**: Native
-- **English**: Professional proficiency
+- **English**: A2 level (with lots of enthusiasm! 😄)
 - **Portuguese**: Conversational
 
 ## 📚 Speaking & Publications

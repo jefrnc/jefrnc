@@ -135,18 +135,6 @@ Senior DevOps Engineer and Software Architect with 18+ years of experience in cl
 - **English**: A2 level (with lots of enthusiasm! 😄)
 - **Portuguese**: Conversational
 
-## 📚 Speaking & Publications
-
-### Recent Talks
-- **CloudNative Con** - "Multi-Cloud Infrastructure as Code" (2023)
-- **DevOps Summit LATAM** - "Scaling Startups with Kubernetes" (2022)
-- **Trading Tech Conference** - "Real-time Data Pipelines for Trading" (2021)
-
-### Publications
-- **Dev.to**: Regular contributor on DevOps and cloud architecture topics
-- **Medium**: Articles on quantitative trading and algorithmic strategies
-- **GitHub**: Open source projects with 1000+ stars collectively
-
 ## 🎯 Areas of Expertise
 
 - **Cloud Architecture**: Multi-cloud design, migration strategies, cost optimization
@@ -175,24 +163,13 @@ Available for advisory roles in:
 
 ## 📞 Contact Information
 
-- **LinkedIn**: [linkedin.com/in/jefrnc](https://linkedin.com/in/jefrnc)
+- **Telegram**: [@jsfrnc](https://t.me/jsfrnc)
 - **GitHub**: [github.com/jefrnc](https://github.com/jefrnc)
-- **Twitter/X**: [@jefrnc](https://twitter.com/jefrnc)
-- **Dev.to**: [dev.to/jefrnc](https://dev.to/jefrnc)
-- **Email**: jefrnc@protonmail.com
 - **Location**: LATAM (Remote-first)
 
 ## 💬 Professional Philosophy
 
 > "In trading and technology, the learning never stops. The best solutions come from understanding both the technical complexities and the business impact. Whether it's optimizing cloud infrastructure or developing trading strategies, success lies in continuous improvement and adaptation."
-
----
-
-### ☕ Support My Work
-
-If you find my open-source contributions valuable or want to support my research in trading and cloud technologies:
-
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/jefrnc)
 
 ---
 

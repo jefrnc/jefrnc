@@ -1,5 +1,3 @@
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/jefrnc)
-
 <div align="center">
   <h1>Hey! Nice to see you 👋</h1>
   <h2>I'm José Franco</h2>
@@ -148,52 +146,23 @@ I'm a passionate technologist who bridges the gap between **enterprise cloud sol
 ### 🤝 Let's Connect!
 
 <div align="center">
-  <a href="https://linkedin.com/in/jefrnc" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/jefrnc" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:jefrnc@protonmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://dev.to/jefrnc" target="_blank">
-    <img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
+  <a href="https://t.me/jsfrnc" target="_blank">
+    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
 
 ---
 
-### 💬 Ask Me About
-
-- 🚀 **Cloud Architecture**: AWS, GCP, Azure best practices
-- 🥑 **Startups**: Scaling from MVP to production, building engineering culture
-- 📊 **Quantitative Trading**: Strategy development, backtesting, execution
-- 🔧 **DevOps**: CI/CD, monitoring, automation
-- 💹 **Trading**: ICT, Market Profile, algorithmic strategies, market structure
-- 🌟 **Infrastructure as Code**: Pulumi, Terraform, CloudFormation
-- 🤖 **Algorithmic Trading**: System design, backtesting, continuous improvement
-- 💚 **LATAM Tech Scene**: Opportunities, challenges, and growth
-
----
-
-##  Support My Work ☕
-
-If you find my work valuable and would like to support my open-source contributions and trading research, consider buying me a coffee ☕
+### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://ko-fi.com/jefrnc" target="_blank">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=jefrnc&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jefrnc&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
-### 🌟 Other Ways to Support
-
-- ⭐ **Star my repositories** if you find them useful
-- 🔄 **Share my projects** with your network
-- 👥 **Follow me** to stay updated with my latest work
-- 💡 **Contribute** to my open-source projects
-- 📢 **Recommend me** for speaking opportunities
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefrnc&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
@@ -205,11 +174,4 @@ If you find my work valuable and would like to support my open-source contributi
 
 <div align="center">
   <h3>💭 "In trading and technology, the learning never stops."</h3>
-</div>
-
----
-
-<div align="center">
-  <p>⌨️ with ❤️ by <a href="https://github.com/jefrnc">José Franco</a> 😊</p>
-  <p>Bridging cloud infrastructure, trading, and quantitative analysis 🚀</p>
 </div>

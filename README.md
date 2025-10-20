@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hey! Nice to see you 👋</h1>
   <h2>I'm José Franco</h2>
-  <h3>🚀 Software Architect | ☁️ CloudOps Specialist | 📈 Quantitative Trading Enthusiast</h3>
+  <h3>🚀 Software Architect | ☁️ CloudOps Specialist | 📈 Quantitative Trader & Developer</h3>
 </div>
 
 <div align="center">
@@ -12,27 +12,21 @@
 
 ### 🎯 About Me
 
-I'm a passionate technologist who bridges the gap between **enterprise cloud solutions**, **quantitative finance**, and the **startup ecosystem**. With nearly two decades in the tech industry, I've evolved from traditional software development to building scalable cloud infrastructures, developing algorithmic trading systems, and helping startups grow.
+**Level 1 started:** January 19, 1984, 21:00 - Buenos Aires, Argentina (same year as the Macintosh launch)
+
+18+ years in tech - started coding, worked through DevOps/CloudOps/Technical Manager roles, built infrastructure for startups like **Frubana** 🥑, taught at Microsoft, and now I'm deep into algo trading and quantitative analysis.
+
+Same obsession I had for building scalable systems, I now have for the markets. Cloud architectures by day (sometimes), trading strategies by night (most times).
 
 📋 **[View my detailed professional profile](./PROFILE.md)** | 📄 **[Download CV (PDF)](./CV.pdf)**
 
-- 🔭 **Senior DevOps Engineer** crafting robust cloud architectures for enterprise scale
-- 🚀 **Startup Enthusiast** - The startup world is the best! Former engineer at **Frubana** 🥑
-- 📊 **Quantitative Trading Enthusiast** developing algorithmic strategies and backtesting frameworks
-- 🏢 **Cloud Polyglot** experienced with AWS, Azure, and GCP ecosystems
-- 🎓 **Former Microsoft Instructor** sharing knowledge and best practices
-- 🤖 **Automation Advocate** building tools that make developers' lives easier
-- 💹 **Market Microstructure** researcher exploring price action, market dynamics, and statistical patterns
-- 🌟 **Pulumi Champion** promoting Infrastructure as Code best practices
-- 💡 **Startup Advisor** helping early-stage companies with technical architecture and scaling
+### 💡 Current Projects & Focus
 
-### 💡 What I'm Working On
-
-- 🔄 Building algorithmic trading systems while maintaining discretionary edge
-- 📈 Developing backtesting frameworks for both systematic and discretionary strategies
-- ☁️ Architecting real-time data pipelines for market analysis
-- 🚀 Creating DevOps tools that streamline cloud deployments
-- 🌟 Constantly exploring new intersections between finance, technology, and quantitative analysis
+- 💎 **Small Caps Trading** - Main trading activity. Pure discretionary, reading market structure, momentum plays
+- 🤖 **MetaTrader Automation** - Several strategies running live, optimizing entries/exits and risk management
+- 📊 **Python Futures Strategies** - Converting ICT/FVG concepts into systematic Python code for futures
+- 🎯 **Quant Skill Development** - Bridging discretionary intuition with quantitative rigor. Learning, backtesting, iterating
+- ☁️ **Cloud/DevOps Projects** - Still building pipelines and infrastructure when markets are closed
 
 ### 🛠️ Tech Stack & Tools
 
@@ -64,6 +58,7 @@ I'm a passionate technologist who bridges the gap between **enterprise cloud sol
 
 #### 📊 Quantitative Trading & Data Science
 <p>
+  <img alt="MetaTrader" src="https://img.shields.io/badge/-MetaTrader-1C3F94?style=flat-square&logo=metatrader&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
   <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
@@ -90,27 +85,25 @@ I'm a passionate technologist who bridges the gap between **enterprise cloud sol
 
 ### 🚀 Startup Journey
 
-<div align="center">
-  <h4>💚 "The startup world is the best!" 💚</h4>
-</div>
+**🥑 Frubana** - Built scalable infrastructure for LATAM's leading B2B fresh food marketplace. Microservices, real-time inventory, delivery optimization.
 
-- **🥑 Frubana** - Built scalable infrastructure for LATAM's leading B2B fresh food marketplace
-  - Designed microservices architecture handling thousands of daily orders
-  - Implemented real-time inventory management system
-  - Optimized delivery route algorithms reducing costs by 30%
-- **🌱 Startup Advisor** - Helping early-stage companies with:
-  - Technical architecture decisions
-  - Scaling infrastructure from MVP to production
-  - Building engineering teams and culture
-  - Cloud cost optimization strategies
+**🌱 Startup Advisor** - Help early-stage companies scale from MVP to production. Architecture, infrastructure, team building, cost optimization.
 
-### 📈 Trading & Finance
+💚 *"The startup world is the best!"*
 
-- **📊 Futures Trading**: Operating futures markets using ICT (Inner Circle Trader) concepts, with a deep love for Fair Value Gaps (FVG)
-- **🎯 Market Profile**: Mastered Matvard's strategy combining TPO (Time Price Opportunity) with DVAs (Developing Value Areas) and LTVWAPs (Low Time Weighted Average Price)
-- **💎 Small Caps**: Discretionary trading in small cap stocks, analyzing market structure and momentum
-- **🤖 Algorithmic Development**: Always staying connected to the algorithmic world, continuously improving automated strategies
-- **📚 Continuous Learning**: Constantly seeking opportunities to deepen knowledge at the intersection of finance, technology, and quantitative analysis
+### 📈 Trading Approach & Evolution
+
+**What I Trade:**
+- **Small Caps** - Main focus. Discretionary entries based on structure, volume, volatility
+- **Futures** - ICT/FVG methodology, automating smart money concepts in Python
+- **MetaTrader Bots** - Automated strategies with strict risk controls
+
+**How I Trade:**
+- **ICT Concepts** - Fair Value Gaps, liquidity grabs, order flow
+- **Market Profile** - Matvard's TPO/DVAs/LTVWAPs approach
+- **Quantitative Methods** - Making discretionary patterns systematic through backtesting and statistical analysis
+
+**The Goal:** Apply 18+ years of building robust systems to trading. Make it repeatable, scalable, data-driven.
 
 ### 🎯 Expertise Areas
 
@@ -130,12 +123,13 @@ I'm a passionate technologist who bridges the gap between **enterprise cloud sol
     <td align="center" width="50%">
       <h4>📊 Trading & Quantitative Finance</h4>
       <ul align="left">
-        <li>ICT concepts and Fair Value Gaps</li>
+        <li>Small caps discretionary trading (main focus)</li>
+        <li>ICT/FVG automated strategies in Python</li>
+        <li>MetaTrader platform development</li>
         <li>Market Profile (TPO, DVAs, LTVWAPs)</li>
-        <li>Small caps discretionary trading</li>
-        <li>Algorithmic trading development</li>
-        <li>Risk management systems</li>
-        <li>Real-time market data analysis</li>
+        <li>Algorithmic trading systems</li>
+        <li>Risk management frameworks</li>
+        <li>Real-time market data pipelines</li>
       </ul>
     </td>
   </tr>
@@ -143,12 +137,29 @@ I'm a passionate technologist who bridges the gap between **enterprise cloud sol
 
 ---
 
-### 🤝 Let's Connect!
+### 🤝 Let's Work Together
+
+**What I can do for you:**
+- **Automate Your Strategy** → Turn your trading ideas into working code (Python, MetaTrader, custom solutions)
+- **Quant Projects** → Collaborate on backtesting systems, algo development, market data pipelines
+- **Cloud/DevOps** → Infrastructure, scaling, automation
+
+**Looking to level up as a quant** - constantly learning, testing, improving. Working on something interesting? Let's talk.
+
+**🌍 Open to relocation** - For the right opportunity that offers my daughters better quality of life and me challenging problems to solve.
+
+---
+
+### 📬 Get in Touch
 
 <div align="center">
   <a href="https://t.me/jsfrnc" target="_blank">
     <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
+</div>
+
+<div align="center">
+  <p><i>Open to collaborations, quant projects, and opportunities worldwide</i></p>
 </div>
 
 ---
@@ -173,5 +184,5 @@ I'm a passionate technologist who bridges the gap between **enterprise cloud sol
 </div>
 
 <div align="center">
-  <h3>💭 "In trading and technology, the learning never stops."</h3>
+  <h3>💭 "Technology gave me a career. Trading gave me a passion. Combining both? That's the goal."</h3>
 </div>

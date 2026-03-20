@@ -8,14 +8,13 @@ Senior DevOps Engineer and Software Architect with 18+ years of experience in cl
 
 ## 💼 Professional Experience
 
-### Senior DevOps Engineer @ Enterprise Solutions
+### Founder & Quant Systems Builder @ Amezco Group LLC
 *2020 - Present*
 
-- Design and implement robust cloud architectures for enterprise-scale applications
-- Lead multi-cloud migration initiatives across AWS, Azure, and GCP
-- Optimize CI/CD pipelines reducing deployment time by 60%
-- Implement security best practices and compliance frameworks
-- Mentor engineering teams on cloud-native technologies and DevOps practices
+- Built proprietary trading infrastructure: scanners, risk systems, real-time data pipelines
+- Developed dd.quantradar.io — SaaS platform for small-cap due diligence
+- Design and implement cloud architectures for enterprise clients (AWS, Azure, GCP)
+- Optimize CI/CD pipelines and mentor engineering teams on cloud-native technologies
 
 ### DevOps Engineer @ Frubana 🥑
 *2018 - 2020*
@@ -132,7 +131,7 @@ Senior DevOps Engineer and Software Architect with 18+ years of experience in cl
 ## 🗣️ Languages
 
 - **Spanish**: Native
-- **English**: A2 level (with lots of enthusiasm! 😄)
+- **English**: Basic-Intermediate (technical reading/writing)
 - **Portuguese**: Conversational
 
 ## 🎯 Areas of Expertise

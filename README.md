@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Jose Franco</h2>
+  <h2>José Franco</h2>
   <h3>Software Architect | Cloud Engineer | Algorithmic Trader</h3>
 </div>
 

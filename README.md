@@ -123,8 +123,6 @@ Same obsession I had for building scalable systems, I now have for the markets.
 
 Open to collaborations in quant trading, fintech infrastructure, and cloud architecture.
 
-**Open to relocation** for the right opportunity.
-
 ---
 
 ### Get in Touch
@@ -133,10 +131,19 @@ Open to collaborations in quant trading, fintech infrastructure, and cloud archi
   <a href="https://t.me/jsfrnc" target="_blank">
     <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
+  <a href="https://github.com/jefrnc" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <b>Based in LATAM | Remote-first | Open to relocation or digital nomad opportunities worldwide</b>
 </div>
 
 <div align="center">
-  <p><i>Open to collaborations, quant projects, and opportunities worldwide</i></p>
+  <p><i>Looking for the right team or project — whether that means relocating, going nomad, or building remotely.</i></p>
 </div>
 
 ---

@@ -1,177 +1,129 @@
-# José Franco - Professional Profile
+# Jose Franco - Professional Profile
 
-[📄 Download PDF Version](./CV.pdf)
+[Download CV (PDF)](./CV.pdf)
 
-## 👨‍💼 Professional Summary
+## Professional Summary
 
-Senior DevOps Engineer and Software Architect with 18+ years of experience in cloud infrastructure, enterprise solutions, and quantitative trading systems. Passionate technologist who bridges the gap between enterprise cloud solutions, quantitative finance, and the startup ecosystem. Expert in multi-cloud architectures, Infrastructure as Code, and algorithmic trading development.
+Software Engineer with 18+ years of experience spanning full-stack development, software architecture, cloud infrastructure, and technical leadership. Currently Tech Manager at Globant leading digital transformation projects for enterprise clients across LATAM. Parallel focus on algorithmic trading systems and quantitative analysis.
 
-## 💼 Professional Experience
+Career progression from .NET developer to Chief Software Architect to Tech Manager, with deep expertise in enterprise solutions, multi-cloud architecture, CI/CD automation, and team leadership across companies like Globant, Softtek, Techint, Telmex, and Sancor Seguros.
 
-### Founder & Quant Systems Builder @ Amezco Group LLC
-*2020 - Present*
+## Professional Experience
 
-- Built proprietary trading infrastructure: scanners, risk systems, real-time data pipelines
-- Developed dd.quantradar.io — SaaS platform for small-cap due diligence
-- Design and implement cloud architectures for enterprise clients (AWS, Azure, GCP)
-- Optimize CI/CD pipelines and mentor engineering teams on cloud-native technologies
+### Tech Manager @ Globant
+*October 2020 - Present*
 
-### DevOps Engineer @ Frubana 🥑
-*2018 - 2020*
+Leading diverse digital transformation projects for enterprise clients:
 
-- Built scalable infrastructure for LATAM's leading B2B fresh food marketplace
-- Designed microservices architecture handling thousands of daily orders
-- Implemented real-time inventory management system with 99.9% uptime
-- Optimized delivery route algorithms reducing operational costs by 30%
-- Technologies: AWS, Kubernetes, Docker, Terraform, Python, Go
-- Scaled infrastructure from startup to Series B funding stage
+- **Nera Agro** (Grupo Galicia) - Designed complete cloud architecture using Pulumi on AWS for this agritech startup. 3,666+ farmers onboarded, 16,645+ transactions, 22% merchant growth YoY
+- **Perez Companc** - Tech lead managing 20+ professionals. Built real-time fleet tracking for 1,500+ trucks on AWS microservices architecture
+- **Weld North LLC** - Comprehensive AWS/Azure ecosystem audit. Designed strategic plan for performance optimization and security hardening for this EdTech platform
+- **Auna Peru** - Healthcare data integrations using AWS Data Pipelines, Step Functions, and Pulumi. Massive data ingestion from medical centers
+- **La Casa Ronald McDonald Argentina** - Pro-bono technology collaboration
 
-### Cloud Solutions Architect @ Multiple Companies
-*2012 - 2018*
+### Solutions Architect @ Semperti
+*January 2020 - September 2020*
 
-- Architected cloud solutions for enterprise clients across various industries
-- Led cloud transformation projects migrating on-premise infrastructure to cloud
-- Implemented Infrastructure as Code practices across development teams
-- Reduced infrastructure costs by average of 40% through optimization strategies
+DevOps team member working with enterprise clients including ITAU, TECO, and Anheuser-Busch InBev. Ensured efficient implementation and operation of scalable technology solutions using DevOps best practices.
 
-### Microsoft Certified Instructor
-*2010 - 2012*
+### PreSales Solutions Engineer & Innovation Delivery @ Softtek Argentina
+*February 2019 - December 2019*
 
-- Delivered technical training on Azure cloud technologies and .NET framework
-- Specialized in enterprise architecture and cloud migration strategies
-- Trained over 500+ professionals in cloud best practices
-- Developed custom training materials for enterprise teams
+Supported sales team formulating solutions using .NET, .NET Core, Python, AI/ML, and Cognitive Services. Generated proof-of-concepts for new technologies across multiple market verticals, coordinating with an innovation team.
 
-### Software Developer
-*2006 - 2010*
+### Sr Demand Manager @ AB InBev (via Softtek)
+*March 2015 - January 2019*
 
-- Full-stack development using C#, .NET, and SQL Server
-- Developed enterprise applications for financial and healthcare sectors
-- Participated in agile teams delivering high-quality software solutions
+Served Supply, Logistics, HR, and Agriculture divisions. Identified process improvements using IoT and software solutions. Defined CI/CD standards and automated testing processes for AB InBev, improving delivery quality across vendors. Technologies: WebSphere, Powercenter, GCP, Azure, AWS, .NET, PHP, Ruby on Rails.
 
-## 🎓 Education & Certifications
+### Solution Architect / Project Manager Sr @ Softtek Argentina
+*August 2014 - February 2019*
 
-### Education
-- **Computer Science Degree** - Universidad Nacional, 2006
+Led projects and software architecture for accounts including Techint, Ecogas, and AB InBev (Cerveceria y Malteria Quilmes). Also served as Java architect for new business opportunities and developed mobile demos in the new technologies department.
 
-### Current Certifications & Recognition
-- **Pulumi Champion** - Recognized for contributions to Infrastructure as Code community
-- **AWS Certified Solutions Architect** - Professional
-- **Azure Solutions Expert** - Architecture & DevOps
-- **Google Cloud Professional** - Cloud Architect
-- **Certified Kubernetes Administrator** (CKA)
+### Chief Software Architect @ Sancor Seguros (Accsys S.A.)
+*February 2013 - July 2014*
 
-## 🛠️ Technical Skills
+Led the effort to keep company software aligned with business expectations. Ensured all software was well-designed, operable, and maintained, meeting delivery dates and providing expected business value.
 
-### Cloud Platforms & DevOps
-- **AWS**: EC2, ECS, EKS, Lambda, RDS, S3, CloudFormation, CDK, Route53, CloudFront
-- **Azure**: AKS, Functions, Cosmos DB, DevOps, ARM Templates, Logic Apps
-- **GCP**: GKE, Cloud Run, BigQuery, Cloud Functions, Deployment Manager
-- **Containers**: Docker, Kubernetes, Helm, Istio, Service Mesh
-- **CI/CD**: Jenkins, GitHub Actions, GitLab CI, Azure DevOps, Tekton
-- **IaC**: Terraform, Pulumi, CloudFormation, ARM Templates, Ansible
-- **Monitoring**: Prometheus, Grafana, ELK Stack, Datadog, New Relic
+### Project Leader & Software Architect .NET @ Accusys Technology
+*September 2010 - January 2013*
+
+Defined technical solutions and architecture, analyzed and designed software using .NET technologies. Created and managed workplans for all projects, identified technical risks, and proposed mitigation strategies. Collaborated with project managers on scope, cost, schedule, and quality management. Development in VB.NET, C#, Java with presales technical support.
+
+### Technical Leader @ Telmex S.A.
+*April 2008 - September 2010*
+
+Implemented documentation methodologies, best practices guidelines, and application architecture. Led continuous integration setup and environment configuration for the development cycle. Developed a framework for applications and trained the team in development methodologies and PHP/.NET programming. Managed internal and external teams.
+
+### .NET Analyst Programmer @ Techint S.A. (DIRHU)
+*October 2006 - March 2008*
+
+Maintained and updated Techint's HR system covering Evaluations, Compensation, Labor Records, and Org Charts. Led migration to .NET 1.1, developed tools including WebControls, Code Generators, and framework design.
+
+### Information Technology Advisor @ Accenture S.A.
+*November 2006 - April 2007*
+
+Customized Joomla platform for Fundamind. Advised on SVN, Joomla, PHP, and MySQL technologies.
+
+## Education
+
+- **Computer Science Engineering** - Universidad de Palermo, 2013
+- **Avionics Technician** - EEET N7, 2002
+
+## Certifications
+
+### Microsoft
+- MCT (Microsoft Certified Trainer) Enrollment 2013
+- MCPD Windows Azure Developer
+- MCPD Web Developer 4
+- MCPD Windows Developer 4
+- MCPD Enterprise Application Developer 3.5
+- MCPD ASP.NET Developer 3.5
+- MCITP Database Developer on SQL Server 2005
+- MCTS SharePoint 2010, Application Development
+
+### AWS
+- AWS Certified DevOps Engineer - Professional
+
+### Other
+- ITIL Foundation (AXELOS)
+- Oracle9i PL/SQL Developer Certified Associate
+- Gremlin Certified Chaos Engineering Professional (GCCEPro)
+
+## Technical Skills
 
 ### Programming Languages & Frameworks
-- **Primary**: Python, Go, TypeScript, C#
-- **Secondary**: Rust, JavaScript, Bash
-- **Web**: React, Next.js, NestJS, FastAPI, GraphQL
-- **Databases**: PostgreSQL, MongoDB, Redis, TimescaleDB, InfluxDB
+- **Primary**: Python, Go, C#/.NET, TypeScript
+- **Secondary**: Java, PHP, Ruby on Rails, Bash
+- **Web**: React, Next.js, NestJS, FastAPI
+- **Databases**: PostgreSQL, MongoDB, Redis, TimescaleDB, SQL Server
 
-### Quantitative Trading & Finance
-- **Trading Strategies**: 
-  - ICT (Inner Circle Trader) concepts specializing in Fair Value Gaps (FVG)
-  - Market Profile with TPO, DVAs, and LTVWAPs (Matvard's strategy)
-  - Small cap discretionary trading with market structure analysis
-- **Development Stack**:
-  - Python (pandas, numpy, backtrader, zipline)
-  - Real-time data processing with Kafka
-  - TimescaleDB and InfluxDB for tick data storage
-  - Custom backtesting frameworks with walk-forward analysis
-- **Risk Management**: Position sizing algorithms, portfolio optimization
+### Cloud Platforms & DevOps
+- **AWS**: EC2, ECS, EKS, Lambda, RDS, S3, CloudFormation, CDK, Step Functions, Data Pipelines
+- **Azure**: AKS, Functions, Cosmos DB, DevOps, ARM Templates
+- **GCP**: GKE, Cloud Run, BigQuery, Cloud Functions
+- **Containers**: Docker, Kubernetes, Helm, Istio
+- **CI/CD**: Jenkins, GitHub Actions, GitLab CI, Azure DevOps, Tekton
+- **IaC**: Terraform, Pulumi, CloudFormation, Ansible
+- **Monitoring**: Prometheus, Grafana, ELK Stack, Datadog, New Relic
 
-## 🚀 Notable Projects
+### Trading & Quantitative Finance
+- Penny stock momentum and structure-based setups
+- ICT concepts (Fair Value Gaps, liquidity, order flow) for futures
+- Algorithmic trading with IBKR API and MetaTrader 5
+- Python backtesting frameworks, market data pipelines
+- Risk management and position sizing systems
 
-### Enterprise Cloud Migration Platform
-*2021 - 2023*
-- Led migration of 200+ microservices from on-premise to multi-cloud environment
-- Implemented zero-downtime deployment strategies
-- Reduced infrastructure costs by 45% through resource optimization
-- Technologies: Kubernetes, Terraform, AWS, Azure, Prometheus
-
-### Algorithmic Trading Platform
-*2020 - Present*
-- Developed automated trading system for futures markets
-- Implemented backtesting framework with walk-forward analysis
-- Real-time data processing pipeline handling 1M+ ticks per second
-- Risk management system with dynamic position sizing
-- Technologies: Python, Kafka, TimescaleDB, Redis, Docker
-
-### Frubana Infrastructure Scaling
-*2018 - 2020*
-- Scaled infrastructure from 10 to 1000+ daily orders
-- Implemented microservices architecture with service mesh
-- Built real-time inventory management with event-driven architecture
-- Achieved 99.9% uptime during Black Friday peaks
-- Technologies: AWS, Kubernetes, Istio, Python, Go
-
-### Open Source Contributions
-- **Pulumi Providers**: Contributed to multiple Pulumi providers
-- **Trading Indicators**: Published open-source trading indicators library
-- **DevOps Tools**: Created automation tools for cloud deployments
-
-## 🌟 Achievements & Impact
-
-- **Pulumi Champion** - Recognized leader in Infrastructure as Code community
-- **Cost Optimization Expert** - Saved companies over $2M in cloud costs
-- **Startup Success** - Helped scale Frubana from seed to Series B funding
-- **Technical Leadership** - Mentored 50+ engineers in cloud technologies
-- **Trading Performance** - Developed strategies with consistent positive returns
-
-## 🗣️ Languages
+## Languages
 
 - **Spanish**: Native
-- **English**: Basic-Intermediate (technical reading/writing)
+- **English**: Intermediate (technical reading/writing, professional communication)
 - **Portuguese**: Conversational
 
-## 🎯 Areas of Expertise
-
-- **Cloud Architecture**: Multi-cloud design, migration strategies, cost optimization
-- **DevOps Excellence**: CI/CD pipelines, automation, monitoring, security
-- **Quantitative Trading**: ICT concepts, Market Profile, algorithmic strategies
-- **Startup Scaling**: From MVP to production, team building, technical leadership
-- **Infrastructure as Code**: Terraform, Pulumi, CloudFormation best practices
-- **LATAM Tech Scene**: Deep understanding of regional challenges and opportunities
-
-## 💡 Current Focus & Interests
-
-- Building algorithmic trading systems while maintaining discretionary edge
-- Developing advanced backtesting frameworks for trading strategies
-- Architecting real-time data pipelines for market analysis
-- Creating DevOps tools that streamline cloud deployments
-- Exploring AI/ML applications in trading and infrastructure optimization
-- Mentoring the next generation of cloud engineers and traders
-
-## 🤝 Advisory & Consulting
-
-Available for advisory roles in:
-- **Startups**: Technical architecture, scaling strategies, team building
-- **Cloud Migration**: Multi-cloud strategies, cost optimization
-- **Trading Systems**: Architecture for trading platforms, risk management
-- **DevOps Transformation**: CI/CD implementation, automation strategies
-
-## 📞 Contact Information
+## Contact
 
 - **Telegram**: [@jsfrnc](https://t.me/jsfrnc)
 - **GitHub**: [github.com/jefrnc](https://github.com/jefrnc)
-- **Location**: LATAM (Remote-first)
-
-## 💬 Professional Philosophy
-
-> "In trading and technology, the learning never stops. The best solutions come from understanding both the technical complexities and the business impact. Whether it's optimizing cloud infrastructure or developing trading strategies, success lies in continuous improvement and adaptation."
-
----
-
-💚 *"The startup world is the best!"* 💚
-
-*Last updated: January 2025*
+- **LinkedIn**: [linkedin.com/in/joffranco](https://www.linkedin.com/in/joffranco/)
+- **Location**: LATAM (Remote-first, open to relocation)

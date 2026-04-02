@@ -84,19 +84,24 @@ Same obsession I had for building scalable systems, I now have for the markets.
 ### Career Path
 
 ```
-2006-2010  Software Developer        C#, .NET, SQL Server, enterprise apps
-2010-2012  Microsoft Instructor      Azure, cloud architecture, .NET training
-2012-2018  Cloud Solutions Architect  Enterprise migrations, IaC, multi-cloud
-2018-2020  DevOps Engineer @Frubana  Microservices, K8s, real-time systems
-2020-now   Cloud/DevOps Consultant   Multi-cloud architecture, CI/CD, FinOps
-           + Algorithmic Trader      Trading systems, screeners, automation
+2006-2008  .NET Analyst Programmer     Techint — HR systems, .NET migration
+2008-2010  Technical Leader            Telmex — CI/CD, frameworks, team lead
+2010-2013  Software Architect          Accusys — .NET architecture, presales
+2013-2014  Chief Software Architect    Sancor Seguros — enterprise alignment
+2014-2019  Solution Architect / PM Sr  Softtek — Techint, AB InBev, Ecogas
+2019       PreSales & Innovation       Softtek — AI/ML, .NET Core, PoCs
+2020       Solutions Architect         Semperti — DevOps for ITAU, TECO, ABInBev
+2020-now   Tech Manager               Globant — Nera Agro, Perez Companc,
+                                       Weld North, Auna Peru, Ronald McDonald
+           + Algorithmic Trader        Trading systems, screeners, automation
 ```
 
-### Startup Journey
+### Notable Projects @ Globant
 
-**Frubana** - Built scalable infrastructure for LATAM's leading B2B fresh food marketplace. Microservices, real-time inventory, delivery optimization.
-
-**Startup Advisor** - Help early-stage companies scale from MVP to production. Architecture, infrastructure, team building, cost optimization.
+- **Nera Agro** (Grupo Galicia) - Full cloud architecture with Pulumi/AWS. 3,666 farmers onboarded, 16K+ transactions
+- **Perez Companc** - Led 20+ person team. Real-time tracking for 1,500+ trucks fleet on AWS microservices
+- **Weld North LLC** - AWS/Azure ecosystem audit, performance optimization and security hardening for EdTech platform
+- **Auna Peru** - Healthcare data pipelines with AWS Step Functions, Pulumi. Massive medical center data ingestion
 
 ### Trading Approach
 

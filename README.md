@@ -183,12 +183,12 @@ Open to collaborations in quant trading, fintech infrastructure, and cloud archi
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jefrnc&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jefrnc&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=jefrnc&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefrnc&layout=compact&theme=dark&hide_border=true&langs_count=10" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jefrnc&layout=compact&theme=dark&hide_border=true&langs_count=10" alt="Top Languages" />
 </div>
 
 ---

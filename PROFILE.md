@@ -10,6 +10,17 @@ Career progression from .NET developer to Chief Software Architect to Tech Manag
 
 ## Professional Experience
 
+### DevOps Engineer @ Frubana (Freelance)
+*October 2021 - February 2024 | Colombia, Hybrid*
+
+Key member at a fast-paced LATAM startup, deploying cutting-edge DevOps practices:
+
+- Engineered scalable infrastructure with EKS, Terraform, Ansible, Pulumi, and Jenkins
+- Led GitOps adoption using Atlantis for Terraform and ArgoCD, dramatically improving deployment speed
+- Implemented secrets management with HashiCorp Vault
+- Developed CI/CD workflows with GitHub Actions, reducing time-to-market
+- Crafted Python automation scripts for critical deployment tasks
+
 ### Tech Manager @ Globant
 *October 2020 - Present*
 

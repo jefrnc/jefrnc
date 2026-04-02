@@ -84,11 +84,12 @@ Same obsession I had for building scalable systems, I now have for the markets.
 ### Career Path
 
 ```
-2006-2010  Software Developer       C#, .NET, SQL Server, enterprise apps
-2010-2012  Microsoft Instructor     Azure, cloud architecture, .NET training
-2012-2018  Cloud Solutions Architect Enterprise migrations, IaC, multi-cloud
-2018-2020  DevOps Engineer @Frubana Microservices, K8s, real-time systems
-2020-now   Founder & Quant Builder  Trading infra, algo systems, consulting
+2006-2010  Software Developer        C#, .NET, SQL Server, enterprise apps
+2010-2012  Microsoft Instructor      Azure, cloud architecture, .NET training
+2012-2018  Cloud Solutions Architect  Enterprise migrations, IaC, multi-cloud
+2018-2020  DevOps Engineer @Frubana  Microservices, K8s, real-time systems
+2020-now   Cloud/DevOps Consultant   Multi-cloud architecture, CI/CD, FinOps
+           + Algorithmic Trader      Trading systems, screeners, automation
 ```
 
 ### Startup Journey

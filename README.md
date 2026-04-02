@@ -137,6 +137,9 @@ Open to collaborations in quant trading, fintech infrastructure, and cloud archi
   <a href="https://t.me/jsfrnc" target="_blank">
     <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
+  <a href="https://discordapp.com/users/735550037140176916" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
   <a href="https://github.com/jefrnc" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>

@@ -143,3 +143,5 @@ Customized Joomla platform for Fundamind. Advised on SVN, Joomla, PHP, and MySQL
 - **GitHub**: [github.com/jefrnc](https://github.com/jefrnc)
 - **LinkedIn**: [linkedin.com/in/joffranco](https://www.linkedin.com/in/joffranco/)
 - **Location**: LATAM (Remote-first, open to relocation)
+
+*Last updated: April 2026*

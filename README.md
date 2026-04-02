@@ -108,6 +108,12 @@ Open to collaborations in quant trading, fintech infrastructure, and cloud archi
 ### Get in Touch
 
 <div align="center">
+  <a href="https://jose.ar" target="_blank">
+    <img src="https://img.shields.io/badge/-jose.ar-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jefrnc/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="https://t.me/jsfrnc" target="_blank">
     <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>

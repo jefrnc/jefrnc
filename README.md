@@ -13,7 +13,7 @@
 
 **Level 1 started:** January 19, 1984, 21:00 - Buenos Aires, Argentina (same year as the Macintosh launch)
 
-18+ years in tech. Started as a .NET developer, evolved through software architecture, cloud engineering, DevOps leadership, and technical management. Built infrastructure for startups like **Frubana**, taught at Microsoft, and now I'm deep into algorithmic trading and quantitative analysis.
+18+ years in tech. Started as a .NET developer, evolved through software architecture, cloud engineering, DevOps leadership, and technical management. Built infrastructure for startups like **Frubana**, worked with enterprise clients at **Globant** and **Softtek**, AWS certified, Microsoft Certified Trainer, and now I'm deep into algorithmic trading and quantitative analysis.
 
 Same obsession I had for building scalable systems, I now have for the markets.
 

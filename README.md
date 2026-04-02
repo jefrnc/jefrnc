@@ -187,10 +187,6 @@ Open to collaborations in quant trading, fintech infrastructure, and cloud archi
   <img src="https://streak-stats.demolab.com/?user=jefrnc&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jefrnc&layout=compact&theme=dark&hide_border=true&langs_count=10" alt="Top Languages" />
-</div>
-
 ---
 
 <div align="center">

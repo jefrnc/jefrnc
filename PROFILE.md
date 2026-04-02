@@ -62,6 +62,11 @@ Led the effort to keep company software aligned with business expectations. Ensu
 
 Defined technical solutions and architecture, analyzed and designed software using .NET technologies. Created and managed workplans for all projects, identified technical risks, and proposed mitigation strategies. Collaborated with project managers on scope, cost, schedule, and quality management. Development in VB.NET, C#, Java with presales technical support.
 
+### Microsoft Certified Trainer (MCT)
+*2008 - 2013 (parallel role)*
+
+Delivered official Microsoft training on Azure cloud technologies, .NET framework, and enterprise architecture. Trained professionals in cloud best practices and software development methodologies.
+
 ### Technical Leader @ Telmex S.A.
 *April 2008 - September 2010*
 

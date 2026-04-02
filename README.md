@@ -86,6 +86,7 @@ Same obsession I had for building scalable systems, I now have for the markets.
 ```
 2006-2008  .NET Analyst Programmer     Techint — HR systems, .NET migration
 2008-2010  Technical Leader            Telmex — CI/CD, frameworks, team lead
+2008-2013  Microsoft Certified Trainer Parallel — Azure, .NET, enterprise training
 2010-2013  Software Architect          Accusys — .NET architecture, presales
 2013-2014  Chief Software Architect    Sancor Seguros — enterprise alignment
 2014-2019  Solution Architect / PM Sr  Softtek — Techint, AB InBev, Ecogas

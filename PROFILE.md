@@ -26,10 +26,10 @@ Key member at a fast-paced LATAM startup, deploying cutting-edge DevOps practice
 
 Leading diverse digital transformation projects for enterprise clients:
 
-- **Nera Agro** (Grupo Galicia) - Designed complete cloud architecture using Pulumi on AWS for this agritech startup. 3,666+ farmers onboarded, 16,645+ transactions, 22% merchant growth YoY
-- **Perez Companc** - Tech lead managing 20+ professionals. Built real-time fleet tracking for 1,500+ trucks on AWS microservices architecture
-- **Weld North LLC** - Comprehensive AWS/Azure ecosystem audit. Designed strategic plan for performance optimization and security hardening for this EdTech platform
-- **Auna Peru** - Healthcare data integrations using AWS Data Pipelines, Step Functions, and Pulumi. Massive data ingestion from medical centers
+- **Agritech fintech (LATAM banking group)** - Designed the complete cloud architecture with Pulumi on AWS. 3,666+ producers onboarded, 16,645+ transactions, 22% merchant growth YoY
+- **Energy & logistics group** - Tech lead for a 20+ person team. Real-time fleet tracking for 1,500+ trucks on an AWS microservices architecture
+- **US EdTech platform** - Full AWS/Azure ecosystem audit. Strategic plan for performance optimization and security hardening
+- **Healthcare network (Peru)** - Data integrations with AWS Data Pipelines, Step Functions and Pulumi. Large-scale ingestion from medical centers
 - **La Casa Ronald McDonald Argentina** - Pro-bono technology collaboration
 
 ### Solutions Architect @ Semperti
@@ -139,9 +139,13 @@ Customized Joomla platform for Fundamind. Advised on SVN, Joomla, PHP, and MySQL
 
 ## Contact
 
-- **Telegram**: [@jsfrnc](https://t.me/jsfrnc)
+- **Telegram**: [@birratrades](https://t.me/birratrades)
 - **GitHub**: [github.com/jefrnc](https://github.com/jefrnc)
-- **LinkedIn**: [linkedin.com/in/joffranco](https://www.linkedin.com/in/joffranco/)
+- **LinkedIn**: [linkedin.com/in/jsfrnc](https://www.linkedin.com/in/jsfrnc/)
 - **Location**: LATAM (Remote-first, open to relocation)
 
 *Last updated: April 2026*
+
+---
+
+_Client names under NDA are described by sector. Metrics are real; views are my own and do not represent my employer._

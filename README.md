@@ -1,20 +1,16 @@
-<div align="center">
-  <h3>Software Architect | Cloud Engineer | Algorithmic Trader</h3>
-</div>
+## 18 years building software. For the last three, applied to markets.
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=18%2B+years+building+systems;From+developer+to+architect+to+trader;Cloud+architecture+%26+DevOps;Small+caps+%7C+Futures+%7C+Algorithmic" alt="Typing SVG" />
-</div>
+I started as a .NET developer in 2006 and moved through Technical Leader, Software Architect and
+Chief Software Architect. Today I'm a Tech Manager at Globant, leading teams that build systems
+which can't afford to go down — 20+ person teams, architectures with thousands of users onboarded
+and real-time fleets. Cloud and DevOps came later, as tooling, not as identity.
 
----
+**On my own time I build algorithmic trading systems.** Everything I trade is public:
 
-### About Me
+> **[5,600+ trades with curve, drawdown and profit factor](https://jose.ar/journal)** — updated daily,
+> nothing hidden. No return promises, no screenshots: the whole record, red days included.
 
-18+ years in tech. Started as a .NET developer, evolved through software architecture, cloud engineering, DevOps leadership, and technical management. Built infrastructure for startups like **Frubana**, worked with enterprise clients at **Globant** and **Softtek**, AWS certified, Microsoft Certified Trainer, and now I'm deep into algorithmic trading and quantitative analysis.
-
-Same obsession I had for building scalable systems, I now have for the markets.
-
-[View my detailed professional profile](./PROFILE.md) | [Download CV (PDF)](./CV.pdf)
+[Detailed profile](./PROFILE.md) · [CV (PDF)](./CV.pdf) · [jose.ar](https://jose.ar)
 
 ### Expertise Areas
 
@@ -64,18 +60,20 @@ Same obsession I had for building scalable systems, I now have for the markets.
 2014-2019  Solution Architect / PM Sr  Softtek — Techint, AB InBev, Ecogas
 2019       PreSales & Innovation       Softtek — AI/ML, .NET Core, PoCs
 2020       Solutions Architect         Semperti — DevOps for ITAU, TECO, ABInBev
-2020-now   Tech Manager               Globant — Nera Agro, Perez Companc,
-                                       Weld North, Auna Peru, Ronald McDonald
+2020-now   Tech Manager               Globant — agritech fintech, energy,
+                                       edtech, healthcare (LATAM + US)
 2021-2024  DevOps Engineer             Frubana — EKS, Terraform, GitOps, Colombia
            + Algorithmic Trader        Trading systems, screeners, automation
 ```
 
 ### Notable Projects @ Globant
 
-- **Nera Agro** (Grupo Galicia) - Full cloud architecture with Pulumi/AWS. 3,666 farmers onboarded, 16K+ transactions
-- **Perez Companc** - Led 20+ person team. Real-time tracking for 1,500+ trucks fleet on AWS microservices
-- **Weld North LLC** - AWS/Azure ecosystem audit, performance optimization and security hardening for EdTech platform
-- **Auna Peru** - Healthcare data pipelines with AWS Step Functions, Pulumi. Massive medical center data ingestion
+_Clients under NDA are described by sector. Metrics are real._
+
+- **Agritech fintech (LATAM banking group)** - Full cloud architecture with Pulumi/AWS. 3,666 producers onboarded, 16K+ transactions
+- **Energy & logistics group** - Led 20+ person team. Real-time tracking for a 1,500+ truck fleet on AWS microservices
+- **US EdTech platform** - AWS/Azure ecosystem audit, performance optimization and security hardening
+- **Healthcare network (Peru)** - Data pipelines with AWS Step Functions and Pulumi. Large-scale medical center ingestion
 
 ### Trading Approach
 
@@ -93,15 +91,22 @@ Same obsession I had for building scalable systems, I now have for the markets.
 
 ---
 
-### Let's Work Together
+### Building with others
 
-**What I can do for you:**
-- **Automate Your Strategy** - Turn your trading ideas into working code (Python, MetaTrader, IBKR)
-- **Quant Projects** - Collaborate on backtesting systems, algo development, market data pipelines
-- **Cloud/DevOps** - Infrastructure, scaling, automation
-- **Software Architecture** - System design, microservices, enterprise solutions
+I have a full-time job I like — this is about the projects I build on the side, and I'd rather
+build them with people than alone.
 
-Open to collaborations in quant trading, fintech infrastructure, and cloud architecture.
+**What I'm working on:** market data pipelines, reproducible backtesting, execution automation
+and LLM tooling for quant research. Some of it is in the repos above; the rest is in progress.
+
+**Who I'd like to hear from:**
+- Engineers who ship — Python, Go, cloud — and are curious about markets
+- Traders with an edge who need it turned into a system that runs itself
+- Anyone building quant infrastructure who wants a second pair of hands with 18 years of
+  systems behind them
+
+I'm not selling hours. If you're building something in this space, open an issue, ping me on
+Telegram or write to hola@jose.ar.
 
 ---
 
@@ -111,10 +116,10 @@ Open to collaborations in quant trading, fintech infrastructure, and cloud archi
   <a href="https://jose.ar" target="_blank">
     <img src="https://img.shields.io/badge/-jose.ar-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
-  <a href="https://www.linkedin.com/in/joffranco/" target="_blank">
+  <a href="https://www.linkedin.com/in/jsfrnc/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://t.me/jsfrnc" target="_blank">
+  <a href="https://t.me/birratrades" target="_blank">
     <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://discordapp.com/users/735550037140176916" target="_blank">
@@ -125,11 +130,11 @@ Open to collaborations in quant trading, fintech infrastructure, and cloud archi
 <br/>
 
 <div align="center">
-  <b>Based in LATAM | Remote-first | Open to relocation or digital nomad opportunities worldwide</b>
+  <b>Buenos Aires · Remote-first · Open to relocating for the right project</b>
 </div>
 
 <div align="center">
-  <p><i>Looking for the right team or project — whether that means relocating, going nomad, or building remotely.</i></p>
+  <p><i>Views are my own and do not represent my employer or its clients. Nothing here is financial advice.</i></p>
 </div>
 
 ---

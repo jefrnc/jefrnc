@@ -108,6 +108,15 @@ and LLM tooling for quant research. Some of it is in the repos above; the rest i
 I'm not selling hours. If you're building something in this space, open an issue, ping me on
 Telegram or write to hola@jose.ar.
 
+### Sponsors
+
+A few of these projects run in other people's production. If one of them saves your team
+time, [sponsorship](https://github.com/sponsors/jefrnc) is what keeps them maintained —
+tiers and what each one includes are in [SPONSORS.md](./SPONSORS.md).
+
+The Discord is free and stays free. Sponsorship buys access to the working material, not
+to the room.
+
 ---
 
 ### Get in Touch

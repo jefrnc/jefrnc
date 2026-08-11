@@ -24,6 +24,8 @@ What sponsors get is access to the working material, not to the room.
 | **$5** | Supporter | Listed below. That's it — no fake perks. |
 | **$25** | Research access | Private research channels: backtest post-mortems, data-quality findings, and the notes behind what I publish. |
 | **$100** | Production support | For teams running these projects in production: logo in the README of the repos you depend on, priority on issues affecting you, and a heads-up before breaking changes. |
+| **$10** one-time | Saved me a weekend | One of these repos saved you a weekend of work. Here's one back. Listed below. |
+| **$50** one-time | Part of your workflow | For a tool that stopped being a curiosity and became part of how you work. Listed below, and your issues get a real answer. |
 
 If your firm depends on `ticker-reference-data` for its backtests, the top tier costs
 less than maintaining that dataset yourselves. That's the entire pitch.

@@ -117,18 +117,9 @@ tiers and what each one includes are in [SPONSORS.md](./SPONSORS.md).
 The Discord is free and stays free. Sponsorship buys access to the working material, not
 to the room.
 
----
-
-### Support the open source
-
-The tooling behind all of this — broker exporters, reproducible backtests, market data pipelines,
-LLM skills for quant research — is free, and it stays free. Sponsoring pays for the data
-subscriptions and broker API access underneath it, and for the weekends that go into docs and
-keeping the exporters alive when brokers change their formats.
-
 <div align="center">
   <a href="https://github.com/sponsors/jefrnc" target="_blank">
-    <img src="https://img.shields.io/badge/-Sponsor%20my%20work-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor jefrnc"/>
+    <img src="https://img.shields.io/badge/-Become%20a%20sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor jefrnc"/>
   </a>
 </div>
 
